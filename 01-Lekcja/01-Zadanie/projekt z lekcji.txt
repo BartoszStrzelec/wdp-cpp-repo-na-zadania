@@ -1,0 +1,12 @@
+#include <iostream>
+
+using namespace std;
+
+int main()
+{
+    int liczba_calkowita;
+    cout << "Podaj liczbe ";
+    cin >>liczba_calkowita;
+    cout << "Podana liczba to " <<liczba_calkowita<< endl;
+    return 0;
+}
